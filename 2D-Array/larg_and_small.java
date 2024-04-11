@@ -1,3 +1,13 @@
+/*
+Q. Write a program to take input in 2d-array and print the largest and smallest element of the matrix.
+Ex:-
+Input: 4 1 2
+       3 6 7
+       9 5 8
+Output:
+Smallest Element = 1
+Largest Element = 9
+*/
 import java.util.*;
 public class larg_and_small {
     public static void main(String args[]) {
